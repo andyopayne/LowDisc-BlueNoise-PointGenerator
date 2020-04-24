@@ -1,7 +1,7 @@
 # LowDisc-BlueNoise-PointGenerator
 
 ## 2D Point Generator using Low Disc Blue Noise Sampling
-The current code is a C# project which will generate a bounded two-dimensional point set for [Grasshopper](https://discourse.mcneel.com/c/grasshopper)/[Rhino](https://www.rhino3d.com/) by wrapping the [Low Disc Blue Noise Point Sampling C++ library](https://github.com/dcoeurjo/LowDiscBlueNoise) written by David Coeurjolly.
+This is a C# project which will generate a bounded two-dimensional point set for [Grasshopper](https://discourse.mcneel.com/c/grasshopper)/[Rhino](https://www.rhino3d.com/) by wrapping the [Low Disc Blue Noise Point Sampling C++ library](https://github.com/dcoeurjo/LowDiscBlueNoise) written by David Coeurjolly.
 
 ## License
 
@@ -17,6 +17,8 @@ The current code is a C# project which will generate a bounded two-dimensional p
  * All rights reserved.
  *
  * Refactoring by David Coeurjolly 2018-11-22
+ *
+ * Refactoring for Grasshopper by Andrew O. Payne 2020-04-24
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted provided that the following conditions are met:
